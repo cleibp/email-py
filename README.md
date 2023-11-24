@@ -10,7 +10,7 @@ Email Python
     ### Clonando
 
     ```bash
-    git clone git@github.com:cleibp/webbrowser-py.git
+    git clone git@github.com:cleibp/email-py.git
     ```
 1. Download:
     ### Download Manual
