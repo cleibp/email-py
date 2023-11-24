@@ -1,9 +1,7 @@
-# email-py
-
 <h1 align="center"> 🚀 Email Python </h1>
 
 ## ✍️ Descrição
-Exemplo de Webbrowser Python
+Email Python
 
 ## 📥 Clone/Baixe
 
